@@ -1,6 +1,7 @@
 ---
+layout: page
 title: "Further Research"
-date: 2013-12-15
+permalink: /research/
 ---
 
 This page contains links to some of the most prominent and cogent discussions on the topic of Bitcoin denominations.
