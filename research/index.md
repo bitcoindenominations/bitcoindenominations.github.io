@@ -4,8 +4,6 @@ title: "Further Research"
 permalink: /research/
 ---
 
-## Further Research
-
 This page contains links to some of the most prominent and cogent discussions on the topic of Bitcoin denominations.
 
 - [BitcoinTalk: Bitcoin Denominations / Re-Denomination](https://bitcointalk.org/index.php?topic=372195)
