@@ -1,3 +1,5 @@
 theme: minima
 title: Bitcoin Denominations
 description: Working towards internationally recognised Bitcoin denominations.
+header_pages:
+  - research/index.md
